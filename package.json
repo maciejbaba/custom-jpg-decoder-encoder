@@ -1,7 +1,4 @@
 {
-  "dependencies": {
-    "ts-node": "^10.9.2"
-  },
   "name": "custom-jpg-decoder-encoder",
   "version": "1.0.0",
   "description": "",
@@ -20,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/maciejbaba/custom-jpg-decoder-encoder/issues"
   },
-  "homepage": "https://github.com/maciejbaba/custom-jpg-decoder-encoder#readme"
+  "homepage": "https://github.com/maciejbaba/custom-jpg-decoder-encoder#readme",
+  "dependencies": {
+    "@types/node": "^22.13.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
 }
